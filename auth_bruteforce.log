@@ -1,0 +1,7 @@
+Nov 05 14:10:01 auth-gw sshd[14201]: Failed password for invalid user admin from 192.168.1.185 port 42101 ssh2
+Nov 05 14:10:05 auth-gw sshd[14205]: Failed password for invalid user admin from 192.168.1.185 port 42102 ssh2
+Nov 05 14:10:12 auth-gw sshd[14210]: Failed password for invalid user root from 192.168.1.185 port 42103 ssh2
+Nov 05 14:10:18 auth-gw sshd[14215]: Failed password for invalid user support from 192.168.1.185 port 42104 ssh2
+Nov 05 14:10:25 auth-gw sshd[14220]: Failed password for invalid user sarah_admin from 192.168.1.185 port 42105 ssh2
+Nov 05 14:10:32 auth-gw sshd[14225]: Failed password for invalid user sarah_admin from 192.168.1.185 port 42106 ssh2
+Nov 05 14:10:45 auth-gw sshd[14230]: Accepted password for sarah_admin from 192.168.1.185 port 42107 ssh2

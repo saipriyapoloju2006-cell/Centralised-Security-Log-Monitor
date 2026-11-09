@@ -1,0 +1,4 @@
+192.168.1.92 - - [05/Nov/2026:14:15:01 +0000] "GET /api/v1/payroll/salaries HTTP/1.1" 403 241 "-" "CustomScanner/2.1"
+192.168.1.92 - - [05/Nov/2026:14:15:08 +0000] "GET /admin/database/backup.sql HTTP/1.1" 403 241 "-" "CustomScanner/2.1"
+192.168.1.92 - - [05/Nov/2026:14:15:15 +0000] "GET /etc/ssl/private/server.key HTTP/1.1" 403 241 "-" "CustomScanner/2.1"
+192.168.1.92 - - [05/Nov/2026:14:15:22 +0000] "GET /api/v2/internal/tokens HTTP/1.1" 403 241 "-" "CustomScanner/2.1"

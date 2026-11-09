@@ -1,0 +1,2 @@
+Nov 05 14:20:10 core-vault01 sudo: root : TTY=pts/2 ; PWD=/etc ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Nov 05 14:20:45 core-vault01 sudo: admin : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/chmod 777 /etc/shadow
